@@ -1,0 +1,7 @@
+jupyter
+sklearn
+pandas
+nltk
+talon
+email_reply_parser
+EmailParser
